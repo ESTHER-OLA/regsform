@@ -36,8 +36,8 @@ A screenshot of the desktop and mobile view of the project is available in the d
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: Solution URL (https://your-solution-url.com)
+- Live Site URL: Live Site URL (https://64f73ad363929d0d5448d8a2--regtsform.netlify.app/)
 
 ## My process
 
