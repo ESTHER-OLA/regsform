@@ -15,7 +15,6 @@ This is a solution to the [Registration form challenge on hertechtrail 20days co
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
@@ -46,21 +45,16 @@ A screenshot of the desktop and mobile view of the project is available in the d
 - Semantic HTML5 markup
 - CSS custom properties
 - [Styled Components](https://styled-components.com/) - For styles
-
-### What I learned
-
-I practice my knowledge in css in building a form page with hover states for all interactive elements on the page.
-
-
-### Continued development
-
-In my future projects on this I will add the below assets to my work to make it responsive, see below;
-
-- CSS grid
+- - CSS grid
 - Flexbox
 - Mobile-first workflow
 - JS library
 - React framework
+
+### What I learned
+
+I practice my knowledge in javascript in building a form page with hover states for all interactive elements on the page.
+
 
 ### Useful resources
 
