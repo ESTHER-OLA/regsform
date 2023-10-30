@@ -29,21 +29,29 @@
             <div class="field-group">
               <label for="first-name" required>First Name</label>
               <input type="text" id="firstName" name="firstName" placeholder="First Name">
+              <img src="./images/icon-error.svg" class="error-icon" alt="">
+              <p class="error-text">First Name cannot be empty</p>        
             </div>
 
             <div class="field-group">
               <label for="last-name" required>Last Name</label>
               <input type="text" id="lastName" name="lastName" placeholder="Last Name">
+              <img src="./images/icon-error.svg" class="error-icon" alt="">
+              <p class="error-text">Last Name cannot be empty</p>        
             </div>
 
             <div class="field-group">
               <label for="email" required>Email</label>
               <input type="email" id="email" name="email" placeholder="Email">
+              <img src="./images/icon-error.svg" class="error-icon" alt="">
+              <p class="error-text">Looks like this is not email</p>       
             </div>
 
             <div class="field-group" required>
               <label for="password">Password</label>
               <input type="password" id="password" name="password" placeholder="Password">
+              <img src="./images/icon-error.svg" class="error-icon" alt="">
+              <p class="error-text">Password cannot be empty</p>       
             </div>
 
             <button type="submit">Claim your free trial </button>
@@ -62,3 +70,5 @@
   </footer>
 </body>
 </html>
+
+<script src="./main.js"></script>
